@@ -1,0 +1,6 @@
+<aura:component implements="flexipage:availableForRecordHome">
+        <lightning:container
+            src="{!$Resource.lwcWebShare + '/index.html'}"
+            onmessage="{!c.handleMessage}"
+/>
+</aura:component>

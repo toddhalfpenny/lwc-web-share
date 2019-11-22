@@ -1,0 +1,5 @@
+<design:component >
+        <design:supportedFormFactors>
+            <design:supportedFormFactor type="Small"/>
+        </design:supportedFormFactors>
+</design:component>

@@ -1,0 +1,3 @@
+<aura:component implements="flexipage:availableForRecordHome">
+    <lightning:button label = "Aura: Share" onclick = "{!c.handleClick}" />
+</aura:component>
